@@ -28,3 +28,8 @@ footer p{
 a:link {
 	text-decoration:none;
 }
+.data, .data2{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 10px;
+}
